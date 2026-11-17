@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-bsd-liberty"
-description = "LibertyBSD libre-software BSD integration"
+description = "SigmaOS BSD Liberty - Freedom-focused BSD with libre software policy enforcement"
 version = "0.1.0"
 tier = 2
 
